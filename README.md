@@ -1,7 +1,7 @@
-![Hello Banner](https://capsule-render.vercel.app/api?type=waving&color=cd5c5c&height=111&section=header&fontSize=50&fontColor=ffffff&animation=twinkling)
+![Hello Banner](https://capsule-render.vercel.app/api?type=waving&color=e60000&height=111&section=header&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 
-![Hello Banner](https://capsule-render.vercel.app/api?type=waving&color=cd5c5c&height=111&section=footer&fontSize=50&fontColor=ffffff&animation=twinkling)
+![Hello Banner](https://capsule-render.vercel.app/api?type=waving&color=e60000&height=111&section=footer&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 <!--
 ![Hello Banner](https://capsule-render.vercel.app/api?type=waving&color=DB5079&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling)
